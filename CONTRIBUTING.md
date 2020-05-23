@@ -2,7 +2,7 @@
 
 I _**welcome**_ contributions to this. 
 
-Please send me r a pull request, create an issue and upload  patch, or even a pastebin link.
+Please send me a pull request, create an issue and upload  patch, or even a pastebin link.
 
 [Read about how to fork & send a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
